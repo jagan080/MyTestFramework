@@ -1,0 +1,29 @@
+API Automation
+
+In Paypal - jax-rs client is used
+https://www.logicbig.com/how-to/code-snippets/jcode-jax-rs-client-and-clientbuilder.html
+
+In Ebay - jersy client is used
+http://www.mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/
+
+But Latest technology
+Rest assured client
+https://gorillalogic.com/blog/automation-testing-part-2-api-testing-rest-assured/
+
+
+Reading Excel to pojo uses java reflection concept
+https://github.com/jagan080/ExcelToObjectMapping-Java
+
+From pojo to json using jackson library
+taking the json body with post method using jersey client
+response is converted to json ->pojo->validation
+
+UI Automation 
+From tools qa
+http://toolsqa.com/selenium-webdriver/testng-data-provider-excel/
+
+
+Git
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
